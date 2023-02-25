@@ -12,7 +12,7 @@ HTML, Css, React, react-icons, rechart, bootstrap etc.
 https://peaceful-nasturtium-2b16e3.netlify.app
 
 **Approch:**  
-firstly obsever the hole structure given in figma then start the working on it making the header and sidebar. After that I make the Sales Figure chart using the rechart librarie after that make the Sales figure on the world wide then worked he major part which is the world map.
+firstly obsever the hole structure given in figma then start the working on it making the header and sidebar. After that I make the Sales Figure chart using the rechart librarie when we clicked on Sales we can see the sales chart to evalueate the things. after that make the to analise the whole world data click on Total Earning we see the the world wide data then worked he major part which is the world map.
 
 
 # Getting Started with Create React App
