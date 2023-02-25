@@ -1,3 +1,20 @@
+**github link :** 
+https://github.com/KanchanpandeyS/World-sales-map-data.git
+
+
+**Title of Project :** 
+World Sales Reacord Map
+
+**Technology stack/libraries :** 
+HTML, Css, React, react-icons, rechart, bootstrap etc.
+
+**hosted link : **
+https://peaceful-nasturtium-2b16e3.netlify.app
+
+**Approch:**  
+firstly obsever the hole structure given in figma then start the working on it making the header and sidebar. After that I make the Sales Figure chart using the rechart librarie after that make the Sales figure on the world wide then worked he major part which is the world map.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
