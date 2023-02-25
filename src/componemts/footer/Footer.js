@@ -178,13 +178,13 @@ function Footer() {
     },
     {
       
-      "uv": 0,
+      "uv": 5000,
       "pv": 3800
     },
     {
       
-      "uv": 0,
-      "pv": 0
+      "uv": 1000,
+      "pv": 3000
     },
     {
       
@@ -219,14 +219,13 @@ function Footer() {
       <p>23,4798</p>
       </div>
       <div className='bar-chart'>
-      <BarChart width={1300} height={120} data={data} >
-  <CartesianGrid strokeDasharray="3 3" />
-  <XAxis dataKey="name" />
-  <YAxis dataKey="" />
-  <Tooltip />
+      <BarChart width={1330} height={120} data={data}  >
+  <CartesianGrid strokeDasharray="1" />
+  <XAxis dataKey="name"  stroke="#eee" />
+  <YAxis dataKey=""  stroke="#eee"/>
+  <Tooltip  />
   <Legend />
   <Bar dataKey="pv" fill="#DBDFF1" />
-  <Bar dataKey="wv" fill="#DBDFF1" />
   <Bar dataKey="uv" fill="#FF708B" />
 </BarChart>
       </div>

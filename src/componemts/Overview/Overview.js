@@ -1,12 +1,13 @@
 import React from 'react'
 import hex from "./../../images/Hex.svg"
+import "./../Overview/overview.css"
 
 const Overview = () => {
   return (
     <>
-    <div  className='map'>
-    <h2>Main Grapgh section</h2>
-    <img src={hex}  />
+    <div className='map' >
+    <img src={hex} alt="map" className='map-container' />
+   
     </div>
     
     </>
